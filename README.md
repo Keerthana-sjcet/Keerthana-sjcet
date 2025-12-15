@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-sjcet&color=blue&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-sjcet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-sjcet&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true)
 
