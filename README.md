@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-sjcet&layout=compact&theme=tokyonight&hide_border=true)
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/Keerthana-sjcet/Keerthana-sjcet/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Keerthana-sjcet/Keerthana-sjcet/blob/output/github-contribution-grid-snake.svg)
 
