@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-sjcet&layout=compact&theme=tokyonight&hide_border=true)
-
