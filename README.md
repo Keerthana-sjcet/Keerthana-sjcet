@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-##GitHub Streak
+## GitHub Streak
 <!-- Contribution + Streak Summary -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true&mode=weekly)
 
