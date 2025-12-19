@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 <!-- GitHub Stats (stable version) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-sjcet&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Keerthana-sjcet&theme=tokyonight&no-frame=true&margin-w=10)
+
 
 
 <!-- Contribution + Streak Summary -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true&mode=weekly)
+##![GitHub Streak](https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true&mode=weekly)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-sjcet&layout=compact&theme=tokyonight&hide_border=true)
