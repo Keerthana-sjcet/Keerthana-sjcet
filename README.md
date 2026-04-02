@@ -29,5 +29,10 @@ Here are some ideas to get you started:
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-sjcet&layout=compact&theme=tokyonight&hide_border=true)
 ## 🐍 Contribution Graph
-![GitHub Snake](https://github.com/Keerthana-sjcet/Keerthana-sjcet/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-sjcet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-sjcet/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-sjcet/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
